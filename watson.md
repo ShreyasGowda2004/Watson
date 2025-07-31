@@ -21,4 +21,4 @@ Capability	Details
 🔧 Model Tuning	Fine-tune base models with your enterprise data.
 📦 Deploy as Service	Deploy tuned models as REST APIs for apps.
 🤖 Foundation Models	Use IBM’s own (e.g., Granite, Slate) or Hugging Face models like BERT, LLaMA, etc.
-📁 GitHub + Data Integration	Connect GitHub, object storage, or data warehouses to use as source..
+📁 GitHub + Data Integration	Connect GitHub, object storage, or data warehouses to use as source...
